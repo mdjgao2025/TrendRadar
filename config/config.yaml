@@ -121,5 +121,3 @@ platforms:
     name: "IT之家"
   - id: "xueqiu"
     name: "雪球"
-  -id: "tencent-hot"
-    name: "腾讯新闻 综合早报"
